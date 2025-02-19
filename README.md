@@ -44,6 +44,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VaRuN/VaRuN/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/VarunSurve/VarunSurve/blob/output/github-snake-dark.svg)
 
 ###
+
+
+
