@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="178" src="https://s4.ezgif.com/tmp/ezgif-4e9a6dd62a3a82.gif"  />
+<img align="right" height="178" src="https://media.tenor.com/X1nlfLKP6toAAAAM/cat-eat.gif"  />
 
 ###
 
